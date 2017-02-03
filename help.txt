@@ -1,0 +1,9 @@
+How to play:
+Convert the Makefile.linux to Makefile and then compile if on linux.
+Use s and f to move the turret up and down, vertically.
+Use mouse (keep it at half of the screen for best performance) to aim the turret.
+Use spacebar to shoot.
+Use alt +left/right and shift + left/right to move the green and red baskets.
+respectively (had to use shift instead of control because control + left/right
+is a shortcut on mac).
+Points will be displayed on the terminal in real time.
